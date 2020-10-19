@@ -1,8 +1,13 @@
 - experience:
+  role: Backend developer
+  time: 2018 - till present
+  company: Yandex Technology, St. Petersburg
+  details: "Quota distribution system development and support"
+- experience:
   role: Java programmer
   time: 2014 - 2018
   company: Transas, St. Petersburg
-  details: "Jira plugin develpment and support"
+  details: "Jira plugin development and support"
 - experience:
   role: Web developer
   time: 2011 - 2014
@@ -17,4 +22,4 @@
   role: Traineeship in «АстроСофт»
   time: 2008
   company: АстроСофт, St. Petersburg
-  details: "C\\#"
+  details: "C#"

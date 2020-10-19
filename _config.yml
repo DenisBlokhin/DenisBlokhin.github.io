@@ -15,8 +15,8 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 #Profile information
 name: Blokhin Denis
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Software Engineer
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 #summary: 'Summary'
 
 #sidebar links
