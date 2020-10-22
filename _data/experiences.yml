@@ -2,24 +2,49 @@
   role: Backend developer
   time: 2018 - till present
   company: Yandex Technology, St. Petersburg
-  details: "Quota distribution system development and support"
+  details: |
+    Quota distribution system development and support
+      - Java 8/11
+      - Spring Boot, Apache CXF, WebFlux, Project Reactor
+      - PostgreSQL, YDB
+      - Maven
+      - Git
+      - Teamcity
 - experience:
   role: Java programmer
   time: 2014 - 2018
   company: Transas, St. Petersburg
-  details: "Jira plugin development and support"
+  details: |
+    Jira plugin development and support
+      - Java 7/8
+      - JavaScript
+      - PostgreSQL
+      - Maven
+      - Git
+      - Jenkins
 - experience:
   role: Web developer
   time: 2011 - 2014
   company: XLogicSoft, St. Petersburg
-  details: "PHP, Javascript, HTML, CSS"
+  details: CMS development
+      - PHP 5.3, Nodejs 0.10 
+      - JavaScript
+      - MySQL, Mongodb
+      - Git
 - experience:
   role: Web developer
   time: 2010 - 2014
   company: IFMO, St. Petersburg
-  details: "Information and educational base tools development"
+  details: |
+    Information and educational base tools development
+      - PHP
+      - CodeIgniter
+      - Svn
 - experience:
   role: Traineeship in «АстроСофт»
   time: 2008
   company: АстроСофт, St. Petersburg
-  details: "C#"
+  details: |
+      - C#
+      - MS SQL
+      - IIS
