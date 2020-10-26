@@ -3,48 +3,61 @@
   time: 2018 - till present
   company: Yandex Technology, St. Petersburg
   details: |
-    Quota distribution system development and support
-      - Java 8/11
-      - Spring Boot, Apache CXF, WebFlux, Project Reactor
-      - PostgreSQL, YDB
-      - Maven
-      - Git
-      - Teamcity
+    Quota distribution system development and support <br>
+    Hadware request system architecting and development
+    <ul>
+      <li>Java 8/11</li>
+      <li>Spring Boot, Apache CXF, WebFlux, Project Reactor</li>
+      <li>PostgreSQL, YDB</li>
+      <li>Maven</li>
+      <li>Git</li>
+      <li>Teamcity</li>
+    </ul>
 - experience:
   role: Java programmer
   time: 2014 - 2018
   company: Transas, St. Petersburg
   details: |
     Jira plugin development and support
-      - Java 7/8
-      - JavaScript
-      - PostgreSQL
-      - Maven
-      - Git
-      - Jenkins
+    <ul>
+      <li>Java 7/8</li>
+      <li>Tomcat</li>
+      <li>JavaScript</li>
+      <li>PostgreSQL</li>
+      <li>Maven</li>
+      <li>Git</li>
+      <li>Jenkins</li>
+    </ul>
 - experience:
   role: Web developer
   time: 2011 - 2014
   company: XLogicSoft, St. Petersburg
-  details: CMS development
-      - PHP 5.3, Nodejs 0.10 
-      - JavaScript
-      - MySQL, Mongodb
-      - Git
+  details: CMS development <br>
+    <ul>
+      <li>PHP 5.3, Nodejs 0.10 </li>
+      <li>Drupal</li>
+      <li>JavaScript</li>
+      <li>MySQL, Mongodb</li>
+      <li>Git</li>
+    </ul>
 - experience:
   role: Web developer
   time: 2010 - 2014
   company: IFMO, St. Petersburg
   details: |
     Information and educational base tools development
-      - PHP
-      - CodeIgniter
-      - Svn
+    <ul>
+      <li>PHP</li>
+      <li>CodeIgniter</li>
+      <li>Svn</li>
+    </ul>
 - experience:
   role: Traineeship in «АстроСофт»
   time: 2008
   company: АстроСофт, St. Petersburg
   details: |
-      - C#
-      - MS SQL
-      - IIS
+    <ul>
+      <li>C#</li>
+      <li>MS SQL</li>
+      <li>IIS</li>
+    </ul>
