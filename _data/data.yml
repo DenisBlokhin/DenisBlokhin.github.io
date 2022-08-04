@@ -14,19 +14,19 @@ sidebar:
     # Sidebar links
     email: blokhin.da@gmail.com
     phone: +7 960 245 9027
-    citizenship:
+    # citizenship:
     website: denisblokhin.github.io #do not add http://
     # linkedin: alandoe
     # xing: alandoe
     # github: sharu725
     # telegram: # add your nickname without '@' sign
-    gitlab:
+    # gitlab:
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/DenisBlokhin/cvs/releases/latest/download/cvs.pdf
 
     languages:
       - idiom: English
@@ -52,8 +52,19 @@ experiences:
     time: 2018 - till present
     company: Yandex Technology, St. Petersburg
     details: |
-      Quota distribution system development and support <br>
+      Task Tracker development
+      <ul>
+          <li>Java 11+</li>
+          <li>Mongodb</li>
+          <li>Elasticsearch</li>
+      </ul>
       Hadware request system architecting and development
+      <ul>
+          <li>Java 11</li>
+          <li>WebFlux, Project Reactor</li>
+          <li>YDB</li>
+      </ul>
+      Quota distribution system development and support
       <ul>
         <li>Java 8/11</li>
         <li>Spring Boot, Apache CXF, WebFlux, Project Reactor</li>
