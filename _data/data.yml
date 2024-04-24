@@ -48,8 +48,25 @@ education:
     university: IFMO, St. Petersburg
     time: 2006 - 2013
 experiences:
+  - role: Backend developer 
+    time: 2024 - till present
+    company: Tinkoff, St. Petersburg
+    details: |
+      Live Insurance service developer
+      <ul>
+          <li>Java 21</li>
+          <li>Kotlin 1.9+</li>
+          <li>Spring Boot 3</li>
+          <li>PostgreSQL</li>
+          <li>Kafka</li>
+          <li>K8s</li>
+          <li>Maven</li>
+          <li>Git</li>
+          <li>Gitlab</li>
+      </ul>
+
   - role: Backend developer
-    time: 2018 - till present
+    time: 2018 - 2024 present
     company: Yandex Technology, St. Petersburg
     details: |
       Task Tracker development
